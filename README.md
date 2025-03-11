@@ -1,4 +1,4 @@
-# whatspps
+# Whatspps Apps
 
 A new Flutter project.
 
@@ -6,11 +6,39 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A fully functional WhatsApp clone built using Flutter, featuring real-time messaging, media sharing, and a modern UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ User authentication (Firebase Auth)
+
+✅ Real-time chat functionality (Firebase Firestore)
+
+✅ Send and receive text messages
+
+✅ Media sharing (images, videos, documents)
+
+✅ Profile management
+
+✅ Status updates
+
+✅ Group chats (if implemented)
+
+✅ Dark mode support
+
+## Screenshots
+
+![WhatsApp Image 2025-03-11 at 14 53 40 (1)](https://github.com/user-attachments/assets/dc1a2cb3-3d3b-45a2-b815-21968ce7f27b)
+![WhatsApp Image 2025-03-11 at 14 53 40 (2)](https://github.com/user-attachments/assets/7f8e847b-38ee-43a6-b230-88a0b94152ce)
+
+
+
+## Installation 
+
+-Flutter installed (Install Flutter)
+
+-Dart SDK
+
+-Firebase configured (Set up Firebase)
+
+-Android/iOS emulator or a physical device
