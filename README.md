@@ -26,6 +26,15 @@ A fully functional WhatsApp clone built using Flutter, featuring real-time messa
 
 ✅ Dark mode support
 
+## Steps to Run
+1. Clone this repository : git clone https://github.com/yourusername/quiz-game-flutter.git
+
+2. Navigate to the project directory : cd quiz-game-flutter
+   
+3. Get dependencies : flutter pub get
+ 
+4. Run the app : flutter run
+
 ## Screenshots
 
 ![WhatsApp Image 2025-03-11 at 14 53 40 (1)](https://github.com/user-attachments/assets/dc1a2cb3-3d3b-45a2-b815-21968ce7f27b)
